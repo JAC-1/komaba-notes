@@ -20,7 +20,7 @@ date: "2022-04-01"
 
 The Dunning Kruger effect is a mental situation that happens in the human brain. It's when you are learning something new and you feel really confident, but then later you realize you don't know a lot, and you start to feel very disappointed.
 
-![[Dunning-Kruger.jpg]]
+![x](/docs/assets/Dunning-Kruger.jpg)
 
 This is very natural. The important thing is to remind yourself, as long as you continue to study you will get better. Your brain might say 'you can't get good at English' but your brain is wrong. And slowly, you will start to feel better about your English skills. 
 
@@ -45,7 +45,8 @@ Personally, I like The Cornell Method and the Mapping Method.
 
 
 
-![[1 4b-XTaltMvVJ-VUE54kg4A.jpeg]]
+![](docs/assets/cornel-method.jpeg)
+
 The Cornell Method splits your page into three spaces. The left space is for new words and questions. The big space is for your main notes (new ideas, new information). The bottom space is for your summary.
 
 In class, you add your main notes and keywords. After class, when you go home, you can summarize (要約) your notes in the Summary area. This will help you review your notes.
@@ -58,21 +59,21 @@ The Mapping Method uses something called 'mind maps'. Mind maps is a visual draw
 
 Start with main theme. Make branches for new points. Make more branches on the points for more detail.
 
-![[Tennis-mindmap.png]]
+![](docs/assets/Tennis-mindmap.png)
 
 ## Forgetting
 
 It's easy to forget. Do you remember what you ate on Saturday? When learning new things, like English, it's very easy to forget new words and ideas.
 
 ### The Forgetting Curve
-![ForgettingCurve_Figure1.jpg](ForgettingCurve_Figure1.jpg)
+![ForgettingCurve_Figure1.jpg](docs/assets/ForgettingCurve_Figure1.jpg)
 
 
 The 'curve of forgetting' (忘却曲線) is real. If you don't review, you will forget most of what you learned. 
 
 If you review what you learned, you will 'keep' more new things in your head.
 
-![Ebbinghaus-forgetting-curve-and-review-cycle.png](Ebbinghaus-forgetting-curve-and-review-cycle.png)
+![Ebbinghaus-forgetting-curve-and-review-cycle.png](docs/assets/Ebbinghaus-forgetting-curve-and-review-cycle.png)
 
 ### Reviewing
 
@@ -82,7 +83,7 @@ To stop the 'curve of forgetting', you can review. Reviewing is very important, 
 
 There are many apps that can help you review. Many people like _Quizlet_, and a lot of Japanese learners like _anki_ or _ankiapp_. _Anki_ is called a SRS. SRS means Spaced Repetition System (間隔反復システム). Spaced repetition is a time algorithm (アルゴリズム). 
 
-![Image not found: Spaced-repetition-with-flashcard-learning-Repetition-intervals-increase-for-subsequent.png ](Spaced-repetition-with-flashcard-learning-Repetition-intervals-increase-for-subsequent.png "" "Image not found: Spaced-repetition-with-flashcard-learning-Repetition-intervals-increase-for-subsequent.png ")
+![](docs/assets/Spaced-repetition-with-flashcard-learning-Repetition-intervals-increase-for-subsequent.png)
 
 There are many scientific studies that proves SRS is effective.
 
@@ -102,7 +103,7 @@ If you prefer writing, you summarize your notes.
 
 #### Retrieval Practice
 
-![[スクリーンショット 2022-03-15 115544.png]]
+![](docs/assets/Retrieval.png)
 
 Similar to summarizing, but without your notes.
 

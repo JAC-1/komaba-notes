@@ -13,6 +13,7 @@ date: "2022-04-01"
 3. [Forgetting](#forgetting)
 4. [Reviewing](#reviewing)
 5. [Teaching](#teaching)
+6. [Tiny Habits](#tiny-habits)
 
 
 
@@ -128,4 +129,37 @@ You will need another person. It can be anyone, even your mother.
 	- Answer their questions 
 
 
+
+
+# Tiny English
+![hynx2.jpg](hynx2.jpg)
+
+
+## What?
+
+*Tiny Habits* is a book written by BJ Fogg. He has a PHD (a doctor) in psychology (add Japanese here). He has done a lot of research about making new habits and making life easier. 
+
+There are three steps:
+
+1. Trigger - something you
+2. Tiny Habit
+3.  Reward
+
+![](docs/assets/tiny-habit-recipie.jpg)
+
+For example:
+1. Trigger : hang my coat up (when I come home)
+2. Tiny Habit: write three new Japanese words in my book
+3. Reward: Eat a fruit
+
+
+### Rewards
+
+Rewards don't always need to be a 'thing' like food. Some rewards can be something you say to yourself ("nice job Justin"), or maybe a smile.
+
+Rewards can also be something fun, like 3 min watching Tik Tok videos. But be careful! It's easy to say '.. just one more minute...'. 
+
+## Task: 
+
+Using the Tiny Habits model, make three new English habits. 
 

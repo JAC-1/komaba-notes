@@ -1,0 +1,7 @@
+theme: jekyll-theme-slate
+author: Justin Coward
+date: 2022-02-08
+title: Wonderful BRIX
+markdown: GFM
+github:
+  is_project_page: false

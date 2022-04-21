@@ -13,7 +13,7 @@ date: "2022-04-01"
 3. [Forgetting](#forgetting)
 4. [Reviewing](#reviewing)
 5. [Teaching](#teaching)
-6. [Tiny Habits](#tiny-habits)
+6. [Tiny English](#tiny-english)
 
 
 
@@ -132,7 +132,7 @@ You will need another person. It can be anyone, even your mother.
 
 
 # Tiny English
-![hynx2.jpg](hynx2.jpg)
+![hynx2.jpg](docs/assets/hynx2.jpg)
 
 
 ## What?

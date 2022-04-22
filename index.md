@@ -159,6 +159,8 @@ Rewards don't always need to be a 'thing' like food. Some rewards can be somethi
 
 Rewards can also be something fun, like 3 min watching Tik Tok videos. But be careful! It's easy to say '.. just one more minute...'. 
 
+![](docs/assets/animal-crossing.jpg)
+
 ## Task: 
 
 Using the Tiny Habits model, make three new English habits. 
